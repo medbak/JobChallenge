@@ -1,4 +1,4 @@
-# Create cron job with API
+# Manage job in the queue with API Requests
 
 ## Prepare Environment
 
